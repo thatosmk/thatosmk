@@ -1,32 +1,5 @@
-# Dev Landing Page
+My name is Thato Semoko. Welcome to my GitHub page! Here are highlights of my recent projects. 
 
-Minimal landing page for developers.
+:heart_eyes - I love software development
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
-
-## Inspiration
-
-This project was from [Dinesh](https://github.com/flexdinesh/dev-landing-page)
-Here's his **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
-
-## GitHub Pages
-
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
-
-If you already have a GitHub profile (obviously)
-
-* Create a new repo with the name `{username}.github.io`
-* Clone/Fork this repo and copy the files to your newly created repo
-* Customize your name, links and everything else for your landing page
-* `git push`
-
-Voila! Your site should be live at `https://{username}.github.io`
-
-
-### Custom Domain
-
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-## License
-
-MIT © Dinesh Pandiyan
+Currently working on [Menteasy](https://staging.menteasy.co.za) and a few projects here on my Github page.
