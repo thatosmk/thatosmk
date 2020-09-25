@@ -1,6 +1,7 @@
 My name is Thato Semoko. Welcome to my GitHub page! Here are highlights of my recent projects. 
 
 :wave: -  I'm a Ruby and Rails developer building things for the community.
+
 :heart_eyes: - I love software development
 
 :computer: Here are a few project I am working on:
