@@ -1,4 +1,6 @@
-My name is Thato Semoko. Welcome to my GitHub page! Here are highlights of my recent projects. 
+## Welcome to my GitHub page! 
+
+My name is Thato Semoko. Kindly see my profile here.
 
 :wave: -  I'm a Ruby and Rails developer building things for the community.
 
