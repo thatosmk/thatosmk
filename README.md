@@ -4,7 +4,7 @@ My name is Thato Semoko. Kindly see my profile here.
 
 :wave: -  I'm a Fullstack Ruby and Rails.
 
-:heart_eyes: - I love software development & currently working at [Offerzen](https://offerzen.com)
+:heart_eyes: - I love software development & currently working at [AgrigateOne](https://agrigateone.com)
 
 I founded [Serobe](https://serobe.co.za/?utm_source=github) in my last years in university and it has since grown into a SAAS product that I am proud of as a solo-founder. It is an all-in-one residence management software, used by university residences to manage their day-to-day operations and interactions with students/tenants.
 
