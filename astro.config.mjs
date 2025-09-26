@@ -8,7 +8,8 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://thatosmk.github.io/thatosmk/',
+  site: 'https://thatosmk.github.io/',
+  base: 'thatosmk',
   integrations: [mdx(), sitemap(), tailwindcss()],
   vite: {
     plugins: [],
