@@ -6,10 +6,15 @@ import tailwindcss from '@astrojs/tailwind';
 
 import { defineConfig } from 'astro/config';
 
+import starlight from '@astrojs/starlight';
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://thato.semoko.co.za/',
-  integrations: [mdx(), sitemap(), tailwindcss()],
+  integrations: [
+    starlight({ title: 'Course'}),
+    mdx(), sitemap(), tailwindcss(),
+  ],
   vite: {
     plugins: [],
   },
