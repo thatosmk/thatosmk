@@ -1,18 +1,16 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
-import Navbar from "../components/Navbar.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 ---
 
 <html lang="en">
 	<head>
-		<BaseHead title="Thato Semoko" description="Software Engineer" />
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 
-	<body class="w-11/12 lg:w-full mx-auto bg-slate-900">
-        <Navbar />
-		<main class="container mx-auto">
-            <slot />
-        </main>
-    </body>
+	<body class="min-h-screen bg-slate-900 text-white antialiased">
+		<main class="mx-auto w-11/12 max-w-7xl lg:w-full lg:px-8">
+			<slot />
+		</main>
+	</body>
 </html>
-        
